@@ -10,9 +10,6 @@ echo -e "line12\nline13"
 ## #Escape Sequence Characters : 
 
 # \n : new line
-# \t : tab space 
-
-
-hhhhhhhh
+# \t : tab space
 Footer
 © 2022 GitHub, Inc.
